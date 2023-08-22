@@ -1,0 +1,31 @@
+﻿生成启动时间为 2023/8/22 11:22:29。
+     1>项目“D:\桌面\c++\2023.8.22\2023.8.22\2023.8.22.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\桌面\c++\2023.8.22\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\2023.8.22.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ecs.c
+         ecs.c
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(5): error C2054: 在“elemtype”之后应输入“(”
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(8): error C2085: “bitbode”: 不在形参表中
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(8): error C2085: “bitree”: 不在形参表中
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(11): error C2061: 语法错误: 标识符“createbitree”
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(37): error C2146: 语法错误: 缺少“)”(在标识符“T”的前面)
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(37): error C2061: 语法错误: 标识符“T”
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(37): error C2059: 语法错误:“;”
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(37): error C2059: 语法错误:“,”
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(37): error C2059: 语法错误:“)”
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(49): error C2065: “bitree”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(49): error C2146: 语法错误: 缺少“;”(在标识符“T”的前面)
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(49): error C2065: “T”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(49): warning C4047: “=”:“int”与“void *”的间接级别不同
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(50): warning C4013: “createbitree”未定义；假设外部返回 int
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(50): error C2065: “T”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(51): warning C4013: “preorder”未定义；假设外部返回 int
+     1>d:\桌面\c++\2023.8.22\2023.8.22\ecs.c(51): error C2065: “T”: 未声明的标识符
+     1>已完成生成项目“D:\桌面\c++\2023.8.22\2023.8.22\2023.8.22.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.55
