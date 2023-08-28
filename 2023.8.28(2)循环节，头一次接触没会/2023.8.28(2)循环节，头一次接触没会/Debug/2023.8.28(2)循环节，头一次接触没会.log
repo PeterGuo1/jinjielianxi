@@ -1,0 +1,35 @@
+﻿生成启动时间为 2023/8/28 22:11:44。
+     1>项目“D:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\2023.8.28(2)循环节，头一次接触没会.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt xunhuanxiaoshu.c
+         xunhuanxiaoshu.c
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(14): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(16): error C2065: “s”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(16): warning C4022: “memset”: 指针与实参 1 不匹配
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(16): error C2065: “s”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(22): error C2065: “s”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(22): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(22): warning C4024: “strchr”: 形参和实参 1 的类型不同
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(24): error C2065: “s”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(24): error C2109: 下标要求数组或指针类型
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2143: 语法错误 : 缺少“)”(在“类型”的前面)
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2065: “i”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2065: “i”: 未声明的标识符
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(30): error C2059: 语法错误:“)”
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(31): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\xunhuanxiaoshu.c(32): error C2065: “i”: 未声明的标识符
+     1>已完成生成项目“D:\桌面\c++\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会\2023.8.28(2)循环节，头一次接触没会.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.48
