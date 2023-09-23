@@ -1,0 +1,13 @@
+﻿生成启动时间为 2023/9/23 16:02:17。
+     1>项目“D:\桌面\c++\2023.9.23（1）\2023.9.23（1）\2023.9.23（1）.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\2023.9.23（1）.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ecslx.c
+         ecslx.c
+     1>d:\桌面\c++\2023.9.23（1）\2023.9.23（1）\ecslx.c(45): error C2059: 语法错误:“类型”
+     1>已完成生成项目“D:\桌面\c++\2023.9.23（1）\2023.9.23（1）\2023.9.23（1）.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.09
